@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.victorpsf2.dontsmoke"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6821f1f5-5909-443e-a239-9fbfc9ff20b0"
+      }
+    },
+    "owner": "victorpsf2"
   }
 }
